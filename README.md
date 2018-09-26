@@ -8,3 +8,5 @@ CALCULATOR - Simple input calculator. Addition, subtraction, multiplication, div
 
 UNIT CONVERTER (LENGTH) - Simple length unit converter. **IN PROGRESS**
 
+VOWEL COUNTER - Counts vowels in a given string. **IN PROGRESS**
+
